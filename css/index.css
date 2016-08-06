@@ -1,0 +1,67 @@
+@font-face {	
+	font-family: Supermolot; 
+    src: url(/fonts/Supermolot.eot),
+		 url(/fonts/Supermolot.otf);
+}
+
+body {
+	text-align: center;
+	background: #eee; /* url(/images/my-vocabulary-400px.png) no-repeat */
+	font: bold 14px Supermolot;
+}
+
+.logo_image {
+	width: 300px;
+}
+
+.page_num_input {
+	cursor: pointer;
+	display: inline-block;
+	color: blue;
+}
+
+form.hidden {
+	display: inline-block;
+}
+
+.header_wrapper {
+	border-bottom: 1px solid #000;
+}
+
+.add_word {
+	width: 12%;
+}
+
+.user_word_list_title {
+	color: #2A9D00;
+}
+
+.demo_line_container_news_list table {
+	width: 90%;
+	margin: 0 5%;
+}
+
+.demo_line_container_news_list div {
+	border: 1px solid #000;
+}
+
+.table_cell {
+	/*display: inline-block;*/
+	border: 1px solid #000;
+	width: 32%;
+	text-align: left;
+	padding-left: 0.5%;
+}
+
+.table_headings {
+	background: #aaa; 
+	font-weight: bold;
+}
+
+.table_col_main {
+	width: 43%;
+}
+
+.multiple_table_cells {
+
+}
