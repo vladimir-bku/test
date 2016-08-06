@@ -8,6 +8,7 @@ body {
 	text-align: center;
 	background: #eee; /* url(/images/my-vocabulary-400px.png) no-repeat */
 	font: bold 14px Supermolot;
+	border: 1px solid red;
 }
 
 .logo_image {
